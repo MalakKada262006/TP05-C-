@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1793193638 source:c:\users\cli\onedrive\desktop\tp05-c++\ex03\main.cpp
+	"Utilisateur.hpp"
+	<iostream>
+	<windows.h>
+
+1793193877 c:\users\cli\onedrive\desktop\tp05-c++\ex03\utilisateur.hpp
+	<string>
+	<iostream>
+
+1793193827 source:c:\users\cli\onedrive\desktop\tp05-c++\ex03\uttilisateur.cpp
+	"Utilisateur.hpp"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793193217 source:c:\users\cli\onedrive\desktop\tp05-c++\ex02\produit.cpp
+	"Produit.hpp"
+
+1793193263 c:\users\cli\onedrive\desktop\tp05-c++\ex02\produit.hpp
+	<string>
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793192703 source:c:\users\cli\onedrive\desktop\tp05-c++\ex01\boite.cpp
+	"Boite.hpp"
+
+1793192760 c:\users\cli\onedrive\desktop\tp05-c++\ex01\boite.hpp
+	<iostream>
+
